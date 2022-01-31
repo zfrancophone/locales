@@ -96,7 +96,7 @@
     <term name="book">livre</term>
     <term name="broadcast">enregistrement</term>
     <term name="chapter">chapitre de livre</term>
-    <term name="classic">classic</term><!--aide demandée-->
+    <term name="classic">oeuvre classique</term><!--aide demandée-->
     <term name="collection">collection</term>
     <term name="dataset">jeu de données</term>
     <term name="document">document</term>
@@ -124,7 +124,7 @@
     <term name="post-weblog">billet de blog</term>
     <term name="regulation">règlement</term>
     <term name="report">rapport</term>
-    <term name="review">recension</term><!--aide demandée-->
+    <term name="review">recension</term><!--aide demandée : revue de littérature ? -->
     <term name="review-book">recension de livre</term>
     <term name="software">logiciel</term>
     <term name="song">chanson</term>
@@ -398,8 +398,8 @@
       <multiple>contributeurs</multiple>
     </term>
     <term name="curator"><!--aide demandée-->
-      <single>curator</single>
-      <multiple>curators</multiple>
+      <single>commissaire</single>
+      <multiple>commissaires</multiple>
     </term>
     <term name="executive-producer">
       <single>producteur exécutif</single>
@@ -434,8 +434,8 @@
       <multiple>scénaristes</multiple>
     </term>
     <term name="series-creator"><!--aide demandée-->
-      <single>series creator</single>
-      <multiple>series creators</multiple>
+      <single>créateur de la série</single>
+      <multiple>créateurs de la série</multiple>
     </term>
     <term name="director">
       <single>réalisateur</single>
