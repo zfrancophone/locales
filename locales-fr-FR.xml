@@ -31,7 +31,7 @@
     <term name="no-publisher" form="short">s.&#160;n.</term>
     <term name="on">sur</term> <!--aide demandée--><!-- à vérif : at = sur-->
     <term name="op-cit">op.&#160;cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="original-work-published">oeuvre originale publiée</term><!--aide demandée-->
+    <term name="original-work-published">oeuvre originale publiée</term><!--aide demandée ; comment encoder le e dans l'o?-->
     <term name="personal-communication">communication personnelle</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">épisode de podcast</term>
@@ -65,7 +65,7 @@
     <term name="et-al">et al.</term>
     <term name="forthcoming">à paraître</term>
     <term name="from">à l'adresse</term>
-    <term name="ibid">ibid.</term><!--aide demandée : proposer ibidem?-->
+    <term name="ibid">ibid.</term>
     <term name="in">in</term>
     <term name="in press">sous presse</term>
     <term name="internet">Internet</term>
@@ -92,7 +92,7 @@
     <term name="article-journal">article de revue</term>
     <term name="article-magazine">article de magazine</term>
     <term name="article-newspaper">article de presse</term>
-    <term name="bill">acte juridique</term>
+    <term name="bill">projet de loi</term>
     <term name="book">livre</term>
     <term name="broadcast">enregistrement</term>
     <term name="chapter">chapitre de livre</term>
@@ -109,7 +109,7 @@
     <term name="hearing">audience</term>
     <term name="interview">interview</term>
     <term name="legal_case">affaire</term>
-    <term name="legislation">projet de loi</term>
+    <term name="legislation">acte juridique</term>
     <term name="manuscript">manuscrit</term>
     <term name="map">carte</term>
     <term name="motion_picture">enregistrement vidéo</term>
@@ -124,9 +124,9 @@
     <term name="post-weblog">billet de blog</term>
     <term name="regulation">règlement</term>
     <term name="report">rapport</term>
-    <term name="review">recension</term><!--aide demandée : revue de littérature ? -->
-    <term name="review-book">recension de livre</term>
-    <term name="software">logiciel</term>
+    <term name="review">recension</term><!-- à confirmer-->
+    <term name="review-book">recension de livre</term><!-- à confirmer-->
+    <term name="software">programme informatique</term>
     <term name="song">chanson</term>
     <term name="speech">présentation</term>
     <term name="standard">norme</term>
@@ -163,9 +163,9 @@
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
     <term name="page-range-delimiter">&#8209;</term> <!-- non-breaking hyphen -->
-    <term name="colon">:</term>
+    <term name="colon">&#160;:</term>
     <term name="comma">,</term>
-    <term name="semicolon">;</term>
+    <term name="semicolon">&#160;;</term>
 
     <!-- ORDINALS -->
     <term name="ordinal">ᵉ</term>
@@ -397,7 +397,7 @@
       <single>contributeur</single>
       <multiple>contributeurs</multiple>
     </term>
-    <term name="curator"><!--aide demandée-->
+    <term name="curator"><!--aide demandée : à quel type de document cela s'applique-t-il? jeu de données?-->
       <single>commissaire</single>
       <multiple>commissaires</multiple>
     </term>
