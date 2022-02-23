@@ -19,25 +19,25 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="advance-online-publication">publication en ligne anticipée</term> <!--aide demandée-->
+    <term name="advance-online-publication">publication en ligne anticipée</term> 
     <term name="album">album</term>
     <term name="audio-recording">enregistrement audio</term>
     <term name="film">film</term>
-    <term name="henceforth">henceforth</term> <!--aide demandée-->
+    <term name="henceforth">henceforth</term> 
     <term name="loc-cit">loc.&#160;cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">sans lieu</term>
     <term name="no-place" form="short">s.&#160;l.</term>
     <term name="no-publisher">sans nom</term> <!-- sine nomine -->
     <term name="no-publisher" form="short">s.&#160;n.</term>
-    <term name="on">sur</term> <!--aide demandée--><!-- à vérif : at = sur-->
+    <term name="on">sur</term> 
     <term name="op-cit">op.&#160;cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="original-work-published">oeuvre originale publiée</term><!--aide demandée ; comment encoder le e dans l'o?-->
+    <term name="original-work-published">oeuvre originale publiée</term><!-- comment encoder le e dans l'o?-->
     <term name="personal-communication">communication personnelle</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">épisode de podcast</term>
     <term name="preprint">prépublication</term>
     <term name="radio-broadcast">émission de radio</term>
-    <term name="radio-series">programme de radio</term><!--aide demandée-->
+    <term name="radio-series">programme de radio</term>
     <term name="radio-series-episode">épisode de programme de radio</term>
     <term name="special-issue">numéro spécial</term>
     <term name="special-section">section spéciale</term>
@@ -96,7 +96,7 @@
     <term name="book">livre</term>
     <term name="broadcast">enregistrement</term>
     <term name="chapter">chapitre de livre</term>
-    <term name="classic">oeuvre classique</term><!--aide demandée-->
+    <term name="classic">classique</term>
     <term name="collection">collection</term>
     <term name="dataset">jeu de données</term>
     <term name="document">document</term>
@@ -105,7 +105,7 @@
     <term name="entry-encyclopedia">entrée d'encyclopédie</term>
     <term name="event">événement</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic">graphique</term>
+    <term name="graphic">image</term>
     <term name="hearing">audience</term>
     <term name="interview">interview</term>
     <term name="legal_case">affaire</term>
@@ -113,7 +113,7 @@
     <term name="manuscript">manuscrit</term>
     <term name="map">carte</term>
     <term name="motion_picture">enregistrement vidéo</term>
-    <term name="musical_score">partition musicale</term>
+    <term name="musical_score">partition</term>
     <term name="pamphlet">pamphlet</term>
     <term name="paper-conference">article de colloque</term>
     <term name="patent">brevet</term>
@@ -124,8 +124,8 @@
     <term name="post-weblog">billet de blog</term>
     <term name="regulation">règlement</term>
     <term name="report">rapport</term>
-    <term name="review">recension</term><!-- à confirmer-->
-    <term name="review-book">recension de livre</term><!-- à confirmer-->
+    <term name="review">recension</term>
+    <term name="review-book">recension de livre</term>
     <term name="software">programme informatique</term>
     <term name="song">chanson</term>
     <term name="speech">présentation</term>
@@ -197,11 +197,11 @@
       <single>article</single>
       <multiple>articles</multiple>						 
     </term>
-    <term name="canon"><!--aide demandée-->			 
+    <term name="canon">			 
       <single>canon</single>
       <multiple>canons</multiple>						 
     </term>
-    <term name="elocation"><!--aide demandée-->			 
+    <term name="elocation">			 
       <single>emplacement</single>
       <multiple>emplacements</multiple>						 
     </term>
@@ -397,7 +397,7 @@
       <single>contributeur</single>
       <multiple>contributeurs</multiple>
     </term>
-    <term name="curator"><!--aide demandée : à quel type de document cela s'applique-t-il? jeu de données?-->
+    <term name="curator">
       <single>commissaire</single>
       <multiple>commissaires</multiple>
     </term>
