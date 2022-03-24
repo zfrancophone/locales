@@ -4,6 +4,9 @@
     <translator>
       <name>Grégoire Colly</name>
     </translator>
+    <translator>
+      <name>Collectif Zotero francophone</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2012-07-04T23:31:02+00:00</updated>
   </info>
@@ -19,31 +22,31 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="advance-online-publication">publication en ligne anticipée</term> 
+    <term name="advance-online-publication">publication en ligne anticipée</term>
     <term name="album">album</term>
     <term name="audio-recording">enregistrement audio</term>
     <term name="film">film</term>
-    <term name="henceforth">henceforth</term> 
+    <term name="henceforth">désormais</term>
     <term name="loc-cit">loc.&#160;cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">sans lieu</term>
     <term name="no-place" form="short">s.&#160;l.</term>
     <term name="no-publisher">sans nom</term> <!-- sine nomine -->
     <term name="no-publisher" form="short">s.&#160;n.</term>
-    <term name="on">sur</term> 
+    <term name="on">sur</term>
     <term name="op-cit">op.&#160;cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="original-work-published">oeuvre originale publiée</term><!-- comment encoder le e dans l'o?-->
+    <term name="original-work-published">édition originale</term>
     <term name="personal-communication">communication personnelle</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">épisode de podcast</term>
     <term name="preprint">prépublication</term>
     <term name="radio-broadcast">émission de radio</term>
-    <term name="radio-series">programme de radio</term>
-    <term name="radio-series-episode">épisode de programme de radio</term>
+    <term name="radio-series">série radiophonique</term>
+    <term name="radio-series-episode">épisode de série radiophonique</term>
     <term name="special-issue">numéro spécial</term>
     <term name="special-section">section spéciale</term>
     <term name="television-broadcast">émission de télévision</term>
-    <term name="television-series">programme de télévision</term>
-    <term name="television-series-episode">épisode de programme de télévision</term>
+    <term name="television-series">série télévisée</term>
+    <term name="television-series-episode">épisode de série télévisée</term>
     <term name="video">vidéo</term>
     <term name="working-paper">document de travail</term>
     <term name="accessed">consulté le</term>
@@ -88,13 +91,13 @@
     <term name="version">version</term>
 
     <!-- LONG ITEM TYPE FORMS -->
-    <term name="article">prépublication</term>
+    <term name="article">article</term>
     <term name="article-journal">article de revue</term>
     <term name="article-magazine">article de magazine</term>
     <term name="article-newspaper">article de presse</term>
     <term name="bill">projet de loi</term>
     <term name="book">livre</term>
-    <term name="broadcast">enregistrement</term>
+    <term name="broadcast">émission</term>
     <term name="chapter">chapitre de livre</term>
     <term name="classic">classique</term>
     <term name="collection">collection</term>
@@ -126,7 +129,7 @@
     <term name="report">rapport</term>
     <term name="review">recension</term>
     <term name="review-book">recension de livre</term>
-    <term name="software">programme informatique</term>
+    <term name="software">logiciel</term>
     <term name="song">chanson</term>
     <term name="speech">présentation</term>
     <term name="standard">norme</term>
@@ -134,28 +137,28 @@
     <term name="treaty">traité</term>
     <term name="webpage">page web</term>
 
-    <!-- SHORT ITEM TYPE FORMS --> <!-- valider d'abord formes longues-->
-    <term name="article-journal" form="short">journal art.</term>
-    <term name="article-magazine" form="short">mag. art.</term>
-    <term name="article-newspaper" form="short">newspaper art.</term>
-    <term name="book" form="short">bk.</term>
-    <term name="chapter" form="short">bk. chap.</term>
+    <!-- SHORT ITEM TYPE FORMS -->
+    <term name="article-journal" form="short">art. de revue</term>
+    <term name="article-magazine" form="short">art. de mag.</term>
+    <term name="article-newspaper" form="short">art. de presse</term>
+    <term name="book" form="short">liv.</term>
+    <term name="chapter" form="short">chap. de liv.</term>
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">graph.</term>
     <term name="interview" form="short">interv.</term>
-    <term name="manuscript" form="short">MS</term>
-    <term name="motion_picture" form="short">video rec.</term>
-    <term name="report" form="short">rep.</term>
-    <term name="review" form="short">rev.</term>
-    <term name="review-book" form="short">bk. rev.</term>
-    <term name="song" form="short">audio rec.</term>
+    <term name="manuscript" form="short">ms</term>
+    <term name="motion_picture" form="short">enr. vidéo</term>
+    <term name="report" form="short">rap.</term>
+    <term name="review" form="short">recens.</term>
+    <term name="review-book" form="short">recens. de liv.</term>
+    <term name="song" form="short">enr. audio</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">apr. J.-C.</term>
     <term name="bc">av. J.-C.</term>
-    <term name="bce">BCE</term>
-    <term name="ce">CE</term>
+    <term name="bce">av. J.-C.</term>
+    <term name="ce">apr. J.-C.</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">«&#160;</term>
@@ -171,7 +174,7 @@
     <term name="ordinal">ᵉ</term>
     <term name="ordinal-01" gender-form="feminine" match="whole-number">ʳᵉ</term>
     <term name="ordinal-01" gender-form="masculine" match="whole-number">ᵉʳ</term>
-    
+
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">premier</term>
     <term name="long-ordinal-02">deuxième</term>
@@ -185,49 +188,49 @@
     <term name="long-ordinal-10">dixième</term>
 
     <!-- LONG LOCATOR FORMS -->
-    <term name="act">			 
+    <term name="act">
       <single>acte</single>
-      <multiple>actes</multiple>						 
+      <multiple>actes</multiple>
     </term>
-    <term name="appendix">			 
+    <term name="appendix">
       <single>appendice</single>
-      <multiple>appendices</multiple>						 
+      <multiple>appendices</multiple>
     </term>
-    <term name="article-locator">			 
+    <term name="article-locator">
       <single>article</single>
-      <multiple>articles</multiple>						 
+      <multiple>articles</multiple>
     </term>
-    <term name="canon">			 
+    <term name="canon">
       <single>canon</single>
-      <multiple>canons</multiple>						 
+      <multiple>canons</multiple>
     </term>
-    <term name="elocation">			 
+    <term name="elocation">
       <single>emplacement</single>
-      <multiple>emplacements</multiple>						 
+      <multiple>emplacements</multiple>
     </term>
-    <term name="equation">			 
+    <term name="equation">
       <single>équation</single>
-      <multiple>équations</multiple>						 
+      <multiple>équations</multiple>
     </term>
-    <term name="rule">			 
+    <term name="rule">
       <single>règle</single>
-      <multiple>règles</multiple>						 
+      <multiple>règles</multiple>
     </term>
-    <term name="scene">			 
+    <term name="scene">
       <single>scène</single>
-      <multiple>scènes</multiple>						 
+      <multiple>scènes</multiple>
     </term>
-    <term name="table">			 
+    <term name="table">
       <single>tableau</single>
-      <multiple>tableaux</multiple>						 
+      <multiple>tableaux</multiple>
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
-      <multiple></multiple>						 
+      <multiple></multiple>
     </term>
-    <term name="title-locator">			 
+    <term name="title-locator">
       <single>titre</single>
-      <multiple>titres</multiple>						 
+      <multiple>titres</multiple>
     </term>
     <term name="book">
       <single>livre</single>
@@ -298,42 +301,42 @@
       <multiple>volumes</multiple>
     </term>
 
-    <!-- SHORT LOCATOR FORMS --><!--à vérifier si modifs formes longues-->
-    <term name="appendix">			 
-      <single>app.</single>
-      <multiple>apps.</multiple>						 
+    <!-- SHORT LOCATOR FORMS -->
+    <term name="appendix">
+      <single>append.</single>
+      <multiple>append.</multiple>
     </term>
-    <term name="article-locator">			 
+    <term name="article-locator">
       <single>art.</single>
-      <multiple>arts.</multiple>
+      <multiple>art.</multiple>
     </term>
-    <term name="elocation">			 
-      <single>empl.</single>
-      <multiple>empls.</multiple>
+    <term name="elocation">
+      <single>emplact</single>
+      <multiple>emplact</multiple>
     </term>
-    <term name="equation">			 
+    <term name="equation">
       <single>eq.</single>
-      <multiple>eqs.</multiple>
+      <multiple>eq.</multiple>
     </term>
-    <term name="rule">			 
-      <single>r.</single>
-      <multiple>rr.</multiple>						 
+    <term name="rule">
+      <single>règle</single>
+      <multiple>règles</multiple>
     </term>
-    <term name="scene">			 
+    <term name="scene">
       <single>sc.</single>
-      <multiple>scs.</multiple>						 
+      <multiple>sc.</multiple>
     </term>
-    <term name="table">			 
-      <single>tbl.</single>
-      <multiple>tbls.</multiple>						 
+    <term name="table">
+      <single>tab.</single>
+      <multiple>tab.</multiple>
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
-      <multiple></multiple>						 
+      <multiple></multiple>
     </term>
-    <term name="title-locator">			 
+    <term name="title-locator">
       <single>tit.</single>
-      <multiple>tits.</multiple>
+      <multiple>tit.</multiple>
     </term>
     <term name="book" form="short">liv.</term>
     <term name="chapter" form="short">chap.</term>
@@ -385,7 +388,7 @@
     </term>
 
     <!-- LONG ROLE FORMS -->
-    <term name="chair"><!--aide demandée-->
+    <term name="chair">
       <single>président</single>
       <multiple>présidents</multiple>
     </term>
@@ -410,8 +413,8 @@
       <multiple>invités</multiple>
     </term>
     <term name="host">
-      <single>hébergeur</single>
-      <multiple>hébergeurs</multiple>
+      <single>hôte</single>
+      <multiple>hôtes</multiple>
     </term>
     <term name="narrator">
       <single>narrateur</single>
@@ -433,9 +436,9 @@
       <single>scénariste</single>
       <multiple>scénaristes</multiple>
     </term>
-    <term name="series-creator"><!--aide demandée-->
-      <single>créateur de la série</single>
-      <multiple>créateurs de la série</multiple>
+    <term name="series-creator">
+      <single>créateur de série</single>
+      <multiple>créateurs de série</multiple>
     </term>
     <term name="director">
       <single>réalisateur</single>
@@ -462,46 +465,46 @@
       <multiple>éditeurs et traducteurs</multiple>
     </term>
 
-    <!-- SHORT ROLE FORMS --> <!-- valider d'abord formes longues -->
+    <!-- SHORT ROLE FORMS -->
     <term name="compiler" form="short">
-      <single>comp.</single>
-      <multiple>comps.</multiple>
+      <single>compil.</single>
+      <multiple>compil.</multiple>
     </term>
     <term name="contributor" form="short">
       <single>contrib.</single>
-      <multiple>contribs.</multiple>
+      <multiple>contrib.</multiple>
     </term>
     <term name="curator" form="short">
-      <single>cur.</single>
-      <multiple>curs.</multiple>
+      <single>commiss.</single>
+      <multiple>commiss.</multiple>
     </term>
     <term name="executive-producer" form="short">
-      <single>exec. prod.</single>
-      <multiple>exec. prods.</multiple>
+      <single>prod. exé.</single>
+      <multiple>prod. exé.</multiple>
     </term>
     <term name="narrator" form="short">
       <single>narr.</single>
-      <multiple>narrs.</multiple>
+      <multiple>narr.</multiple>
     </term>
     <term name="organizer" form="short">
       <single>org.</single>
-      <multiple>orgs.</multiple>
+      <multiple>org.</multiple>
     </term>
     <term name="performer" form="short">
-      <single>perf.</single>
-      <multiple>perfs.</multiple>
+      <single>interpr.</single>
+      <multiple>interpr.</multiple>
     </term>
     <term name="producer" form="short">
       <single>prod.</single>
-      <multiple>prods.</multiple>
+      <multiple>prod.</multiple>
     </term>
     <term name="script-writer" form="short">
-      <single>writ.</single>
-      <multiple>writs.</multiple>
+      <single>scénar.</single>
+      <multiple>scénar.</multiple>
     </term>
     <term name="series-creator" form="short">
-      <single>cre.</single>
-      <multiple>cres.</multiple>
+      <single>créat.</single>
+      <multiple>créat.</multiple>
     </term>
     <term name="director" form="short">
       <single>réal.</single>
@@ -528,20 +531,20 @@
       <multiple>éd. et trad.</multiple>
     </term>
 
-    <!-- VERB ROLE FORMS --><!-- valider d'abord formes longues rôles-->
+    <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">présidé par</term>
     <term name="compiler" form="verb">compilé par</term>
     <term name="contributor" form="verb">avec</term>
-    <term name="curator" form="verb">curated by</term>
-    <term name="executive-producer" form="verb">executive produced by</term>
+    <term name="curator" form="verb">organisé par</term>
+    <term name="executive-producer" form="verb">production exécutive par</term>
     <term name="guest" form="verb">avec pour invité</term>
-    <term name="host" form="verb">hébergé par</term>
-    <term name="narrator" form="verb">narrated by</term>
+    <term name="host" form="verb">animé par</term>
+    <term name="narrator" form="verb">lu par</term>
     <term name="organizer" form="verb">organisé par</term>
     <term name="performer" form="verb">interprété par</term>
     <term name="producer" form="verb">produit par</term>
-    <term name="script-writer" form="verb">écrit par</term>
-    <term name="series-creator" form="verb">created by</term>
+    <term name="script-writer" form="verb">scénario de</term>
+    <term name="series-creator" form="verb">créé par</term>
     <term name="container-author" form="verb">par</term>
     <term name="director" form="verb">réalisé par</term>
     <term name="editor" form="verb">édité par</term>
@@ -553,19 +556,19 @@
     <term name="translator" form="verb">traduit par</term>
     <term name="editortranslator" form="verb">édité et traduit par</term>
 
-    <!-- SHORT VERB ROLE FORMS --><!-- valider d'abord formes longues-->
-    <term name="compiler" form="verb-short">comp. by</term>
-    <term name="contributor" form="verb-short">w.</term>
-    <term name="curator" form="verb-short">cur. by</term>
-    <term name="executive-producer" form="verb-short">exec. prod. by</term>
-    <term name="guest" form="verb-short">w. guest</term>
-    <term name="host" form="verb-short">hosted by</term>
-    <term name="narrator" form="verb-short">narr. by</term>
-    <term name="organizer" form="verb-short">org. by</term>
-    <term name="performer" form="verb-short">perf. by</term>
-    <term name="producer" form="verb-short">prod. by</term>
-    <term name="script-writer" form="verb-short">writ. by</term>
-    <term name="series-creator" form="verb-short">cre. by</term>
+    <!-- SHORT VERB ROLE FORMS -->
+    <term name="compiler" form="verb-short">compil. par</term>
+    <term name="contributor" form="verb-short">ac</term>
+    <term name="curator" form="verb-short">org. par</term>
+    <term name="executive-producer" form="verb-short">prod. exé. par</term>
+    <term name="guest" form="verb-short">ac pr inv.</term>
+    <term name="host" form="verb-short">anim. par</term>
+    <term name="narrator" form="verb-short">lu par</term>
+    <term name="organizer" form="verb-short">org. par</term>
+    <term name="performer" form="verb-short">interpr. par</term>
+    <term name="producer" form="verb-short">prod. par</term>
+    <term name="script-writer" form="verb-short">scénar. de</term>
+    <term name="series-creator" form="verb-short">créé par</term>
     <term name="director" form="verb-short">réal. par</term>
     <term name="editor" form="verb-short">éd. par</term>
     <term name="editorial-director" form="verb-short">ss la dir. de</term>
